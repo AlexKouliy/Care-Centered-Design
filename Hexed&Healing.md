@@ -38,3 +38,8 @@ JLG Architects. Trauma-Informed Design Toolkit. 2020, https://jlgarchitects.com.
 Pheels. Sensory-Safe Colours for Neurodivergent Users. 2022, https://pheels.com.au/blogs/blog/top-7-sensory-friendly-colours-for-neuodiverse-children.
 Pineda, Jose A., et al. “Color Preferences in PTSD-Affected Individuals: Implications for Design and Healing.” Journal of Neuropsychological Health, vol. 31, no. 4, 2022, pp. 1–9.
 Harvard University. Color Contrast and Accessibility. Harvard University IT Accessibility, 2022, https://accessibility.huit.harvard.edu.
+
+---
+**Care-Centered Design (CCD)**  
+A nervous-system-first design framework created by **Alex Kouliy**, developed at Nulltech Designs.  
+CCD integrates accessibility, trauma-informed UX, and emotional design into a unified ethical practice.
