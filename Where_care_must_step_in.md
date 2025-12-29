@@ -109,3 +109,8 @@ SAMHSA. Concept of Trauma and Guidance for a Trauma-Informed Approach. U.S. HHS,
 Sweller, John. “Cognitive Load Theory.” Psychology of Learning and Motivation, vol. 55, 2011.
 W3C. Web Content Accessibility Guidelines (WCAG) 2.2. World Wide Web Consortium, 2024.
 W3C COGA Task Force. Making Content Usable for People with Cognitive and Learning Disabilities. World Wide Web Consortium, 2023.
+
+---
+**Care-Centered Design (CCD)**  
+A nervous-system-first design framework created by **Alex Kouliy**, developed at Nulltech Designs.  
+CCD integrates accessibility, trauma-informed UX, and emotional design into a unified ethical practice.
