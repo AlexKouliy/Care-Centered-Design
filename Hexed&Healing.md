@@ -33,7 +33,8 @@ Not every user needs Healing Mode—but every user deserves the choice.
 
 Works Cited 
 Annenberg Institute. Color and Trauma Recovery. Brown University, 2021, https://annenberg.brown.edu/recovery/brief5.
-JLG Architects. Trauma-Informed Design Toolkit. 2020, https://jlgarchitects.com. “Cognitive Accessibility Roadmap and Gap Analysis.” W3C Cognitive Accessibility Task Force, 2023, https://www.w3.org/TR/coga-usable/.
+JLG Architects. Trauma-Informed Design Toolkit. 2020, https://jlgarchitects.com.
+“Cognitive Accessibility Roadmap and Gap Analysis.” W3C Cognitive Accessibility Task Force, 2023, https://www.w3.org/TR/coga-usable/.
 Pheels. Sensory-Safe Colours for Neurodivergent Users. 2022, https://pheels.com.au/blogs/blog/top-7-sensory-friendly-colours-for-neuodiverse-children.
 Pineda, Jose A., et al. “Color Preferences in PTSD-Affected Individuals: Implications for Design and Healing.” Journal of Neuropsychological Health, vol. 31, no. 4, 2022, pp. 1–9.
 Harvard University. Color Contrast and Accessibility. Harvard University IT Accessibility, 2022, https://accessibility.huit.harvard.edu.
