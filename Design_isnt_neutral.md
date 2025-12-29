@@ -151,3 +151,8 @@ Mayer, Richard E. Multimedia Learning. Cambridge University Press, 2019.
 Norman, Donald A. Emotional Design. Basic Books, 2004.
 Thaler, Richard H., and Cass R. Sunstein. Nudge. Yale University Press, 2008.
 Wertheimer, Max. “Laws of Organization in Perceptual Forms.” Psychologische Forschung, 1923.
+
+---
+**Care-Centered Design (CCD)**  
+A nervous-system-first design framework created by **Alex Kouliy**, developed at Nulltech Designs.  
+CCD integrates accessibility, trauma-informed UX, and emotional design into a unified ethical practice.
