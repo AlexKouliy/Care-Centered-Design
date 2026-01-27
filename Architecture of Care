@@ -1,0 +1,54 @@
+Intentionality and the Architecture of Care: A Neurodesign Framework for Harm-Literate Systems
+
+By Alex Kouliy
+
+Abstract:
+
+This paper argues that true care is not a spontaneous occurrence but an intentional construct rooted in evolutionary harm-detection systems. While harm can be enacted passively or by accident, care requires volitional direction. Building on prior work framing care as a negative space — inferred from the patterned absence of harm — we propose that the intentionality behind care is not only its defining trait, but the operational core of ethical design. Using neuroscience, evolutionary biology, and cognitive design principles, we demonstrate that care emerges only through relational agency informed by harm-literacy. Without this literacy, attempts at care result in performative or inert gestures, incapable of reliably reducing harm. We define care as a structurally directed modulation of harm-signaling conditions, and present implications for inclusive design, AI ethics, and human systems.
+
+Introduction
+
+Care is not merely an emotional state or aesthetic of kindness — it is a structured interaction with intent. In both biological and design systems, care does not arise spontaneously from passive absence; it arises through deliberate shaping of conditions to reduce threat and enable safety. Crucially, while harm can be accidental or unnoticed, care never is. True care is the act of seeing — and doing something about — what might otherwise remain invisible.
+
+The Evolution of Harm Literacy
+
+Early lifeforms evolved nociceptive systems — neural architectures that detect tissue damage, toxic stimuli, or energy depletion (Panksepp 119). This survival imperative shaped nervous systems around a bias toward detecting threat. Social mammals evolved further, developing sensitivity to social pain through brain regions like the anterior cingulate cortex and insula (Eisenberger and Lieberman 294). These systems process not only physical harm but also exclusion, disapproval, or loss of safety signals.
+Thus, the first ‘design’ goal of the nervous system was not comfort — it was harm-avoidance. Safety was inferred not from presence of good but from absence of bad. What we now call “care” evolved later — as a derived pattern of sustained non-threat, contextualized by relationship and intent.
+Intentionality as the Defining Variable of Care
+Harm can happen without intention. A sudden noise, jarring contrast, or sharp edge in an interface may trigger stress or pain responses in a neurodivergent user. This happens even if the designer “meant well.” But care — true care — requires more. It is an inference-layer built from intention. For example:
+Leaving food anonymously on a bench is carefully directed, though the recipient is unknown.
+A friendly AI saying “I’m here for you” without relational memory may mimic warmth but fails to direct care unless it understands the potential harm of abandonment or indifference.
+Care is only enacted when a system knows what harm is and intentionally works to reduce its likelihood. Unintentional good outcomes may be beneficial, but they are not care — they are chance.
+
+Design and the Illusion of Caring
+
+Many systems confuse caring visuals with care itself — using soft colors, friendly language, or avatars to convey empathy. But without harm-literacy, this is like painting smiley faces on landmines. True care requires an internal model of what hurts — and who is vulnerable to it.
+A design that intends to be caring must:
+Recognize how harm is perceived across different nervous systems.
+Adjust affordances and signals to minimize harm triggers.
+Encode structures that enable the recipient to infer care through safety, predictability, and relevance.
+This leads us to our core design axiom:
+Care is the modulation of harm through relational intent.
+
+The Neurocognitive Architecture of Care
+
+In neurobiology, care is not sensed directly. It is inferred when the body detects no immediate threat and has enough signal space to enter a state of social connection, play, or recovery. These conditions are regulated by parasympathetic activation, which cannot occur if the nervous system is still processing latent threats (LeDoux 102).
+Neurodivergent individuals often remain in partial fight-or-flight due to sensory overload or trauma imprinting (Baron-Cohen et al. 768). For them, even minor signals of unpredictability or design friction can reactivate threat processing. Hence, care-centered design must be harm-literate first — understanding that perceived threat blocks care entirely.
+
+Implications for Design, AI, and Systems
+
+Care in practice means:
+In design: No interface is neutral. Every UI signal either supports or disrupts the user’s capacity to feel safe.
+In AI: Empathy simulations without harm awareness are void of care. Relational AI must be trained in nervous-system-informed harm signals, not just sentiment analysis.
+In infrastructure: Policies and systems that ignore unintentional harm (e.g., for neurodivergent users, disabled bodies, marginalized groups) will always fail to be caring — no matter the tone of their messaging.
+
+Conclusion
+
+Care is not the opposite of harm — it is the understanding of harm and the intentional modulation of it. Only by developing a deep literacy in harm signals — their forms, timings, and contexts — can we build systems that support the emergence of care. In design, care is not the style. It is the structure that enables safety to be felt.
+
+MLA9 Works Cited
+
+Baron-Cohen, Simon, et al. “Sensory Perception in Autism Spectrum Conditions.” Journal of Autism and Developmental Disorders, vol. 39, no. 5, 2009, pp. 767–775.
+Eisenberger, Naomi I., and Matthew D. Lieberman. “Why It Hurts to Be Left Out: The Neurocognitive Overlap Between Physical and Social Pain.” Trends in Cognitive Sciences, vol. 8, no. 7, 2004, pp. 294–300.
+LeDoux, Joseph. The Emotional Brain: The Mysterious Underpinnings of Emotional Life. Simon & Schuster, 1996.
+Panksepp, Jaak. Affective Neuroscience: The Foundations of Human and Animal Emotions. Oxford University Press, 1998.
