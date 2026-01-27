@@ -37,7 +37,7 @@ compliance → attunement
 function → regulation
 task completion → user wellbeing
 
-🧭 CCD is Built on Three Pillars
+🧭 CCD is Built on These Pillars
 1. URSA × ORCM — The Process Engine
 A two-part iterative workflow that ensures care is preserved from discovery to delivery.
 URSA: User · Relate · Structure · Anchor
@@ -46,27 +46,26 @@ Together, they prevent empathy from evaporating during production.
 
 2. EQFT — Emotional-Field Quantification Toolkit
 Maps visual/motion/tone choices to emotional variables:
-Alert
-Drive
-Resist
-Attune
-Rest
+• Alert
+• Drive
+• Resist
+• Attune
+• Rest
 
 Used to create nervous-system-safe palettes, motion profiles, and interface states.
 
 3. CCD Ethics: Autonomy, Attunement, Consent
 CCD prohibits care-washing and coercive UX.
 Design must preserve:
-Agency
-Predictability
-Emotional safety
-Reversibility
-Transparency
+• Agency
+• Predictability
+• Emotional safety
+• Reversibility
+• Transparency
 
 ✨ Quick Definition (Layperson-Friendly)
 
-CCD is a design approach that makes technology feel safe.
-It’s about reducing overwhelm, lowering stress, and making sure people stay oriented and in control.
+CCD is a design approach that makes technology feel safe. It’s about reducing overwhelm, lowering stress, and making sure people stay oriented and in control.
 
 📘 Quick Definition (Professional)
 
@@ -78,13 +77,13 @@ CCD is an interdisciplinary framework grounded in affective neuroscience, cognit
 
 🧩 How CCD Is Used
 
-Design teams use CCD to:
-Build safer interfaces
-Prevent sensory overload
-Reduce emotional friction
-Improve clarity under stress
-Ensure autonomy in high-stakes workflows
-Audit systems for hidden manipulation or harm
+Design teams can use CCD to:
+• Build safer interfaces
+• Prevent sensory overload
+• Reduce emotional friction
+• Improve clarity under stress
+• Ensure autonomy in high-stakes workflows
+• Audit systems for hidden manipulation or harm
 
 CCD is applicable to:
 UX/UI
@@ -109,8 +108,7 @@ This project is in early research.
 Contributions are welcome once foundational documents are locked.
 
 🪪 License
-Recommended: CC BY-SA 4.0
-(Encourages sharing + prevents corporate appropriation without attribution.)
+CC BY-SA 4.0
 
 💬 Contact
 Questions or collaborations:
