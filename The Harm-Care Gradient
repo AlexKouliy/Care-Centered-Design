@@ -1,0 +1,51 @@
+On Design Neutrality: The Harm–Care Gradient
+
+By Alex Kouliy
+
+Abstract
+
+This paper challenges the widely held belief that design can be neutral. Through a multidimensional analysis of neutrality paradigms and their theoretical and practical limitations, we propose that all design actions inherently participate in a gradient between harm and care. By tracing this dynamic across informational, perceptual, and embodied axes, we argue that “neutrality” in design is a myth rooted in misapplied reductionism and detached abstraction. What remains is not neutrality, but the responsibility of dynamic attunement — a care-based invariant in all interactional design.
+
+I. Introduction: The Illusion of Neutrality
+
+The notion that design can be neutral — untouched by bias, intent, or effect — persists in academic and professional discourse despite mounting evidence to the contrary. Design theorists and practitioners alike often fail to interrogate the foundational assumptions underlying this claim. As one core axiom of Care-Centered Design (CCD) states: Design is not neutral.
+Neutrality in design is not only rare — it is structurally impossible. Every interface, system, and visual artifact encodes values, expectations, and affordances that shape the user’s body, mind, and world. The claim of neutrality, then, is often a veiled expression of privileged defaultness — a failure to recognize embedded norms as active design choices (Tonkinwise, 2011).
+
+II. Modes of Claimed Neutrality and Their Breakdown
+
+We identify five commonly asserted forms of neutrality and explain why each breaks down under scrutiny:
+Aesthetic Neutrality: The illusion that “minimalist” or “standard” design is free from bias. In truth, it enshrines specific cultural aesthetics and neurotypical preferences (Norman, 2002).
+Functional Neutrality: The belief that if something “just works,” it does not encode values. This erases the invisible labor of accessibility and adaptability for those outside the norm (Costanza-Chock, 2020).
+Technical Neutrality: The idea that code, math, or logic are value-agnostic. This has been widely debunked by studies on algorithmic bias and infrastructural exclusion (Noble, 2018).
+Intentional Neutrality: The stance of “no harm meant” used as a moral shield. However, impact exists before intent, a principle grounded in trauma-aware and inclusive design (Gray et al., 2018).
+Epistemic Neutrality: The use of objectivity as rhetorical cover. Often collapses under the epistemological weight of standpoint theory and design justice (Harding, 1991; Costanza-Chock, 2020).
+
+III. The Harm–Care Gradient as a Design Reality
+
+Zooming in reveals a gradient, not a dichotomy. Every design decision exerts a vector force: toward care, or toward harm. This is not a moral accusation — it’s a recognition of design’s systemic effects.
+Just as darkness is the absence of light, harm in design can be understood as the absence of care. In this framing, there is no truly neutral point. The midpoint — the imagined equilibrium — is unstable. Any perceived stillness is actually a dynamic balance of distributed tensions, akin to standing on a shifting fulcrum. Even so-called “default” states lean toward harm by omission when they fail to account for diverse needs.
+
+IV. The Myth of Static Neutrality and the Case for Dynamic Responsibility
+
+If we accept that static neutrality is impossible, we are left with one viable alternative: distributed dynamic neutrality. This is not true neutrality, but rather a state of shifting equilibrium maintained by attentiveness, responsiveness, and care.
+Design in this model is more like dancing on a tightrope than standing still on a platform. Care is the balancing pole — the only invariant. Every choice, constraint, and omission requires recalibration based on who is present, what their capacities are, and how the system shapes their agency.
+
+V. Implications for Design Practice
+
+To design responsibly, one must abandon the myth of neutrality and instead embrace attuned intentionality. This means:
+Mapping the gradient: What are the likely harms and cares embedded in each design layer?
+Tracing the ripple: Who is affected downstream, especially those outside dominant defaults?
+Centering the edge: How can those at the margins shape, not just adapt to, the design?
+Embodying care as core: Not as sentimentality, but as systemic attunement and ethical scaffolding.
+This is not a rejection of clarity, rigor, or universality — it is a reframing of those principles through the lens of relational coherence.
+Conclusion: Design as Relational Intervention
+Design is always an intervention — on perception, behavior, cognition, and culture. By treating care as the invariant and abandoning the myth of neutrality, we step into a more honest, rigorous, and human-centered design ethos. In the harm–care gradient, what matters most is not where we stand, but how we move — and who we hold in the process.
+
+MLA9 Works Cited
+
+Costanza-Chock, Sasha. Design Justice: Community-Led Practices to Build the Worlds We Need. MIT Press, 2020.
+Gray, Colin M., et al. “End User Considerations in Human-Centered Design.” ACM Transactions on Computer-Human Interaction, vol. 25, no. 3, 2018.
+Harding, Sandra. Whose Science? Whose Knowledge? Thinking from Women’s Lives. Cornell University Press, 1991.
+Noble, Safiya Umoja. Algorithms of Oppression: How Search Engines Reinforce Racism. NYU Press, 2018.
+Norman, Don. The Design of Everyday Things. Basic Books, 2002.
+Tonkinwise, Cameron. “A Taste for Practices: Unrepressing Style in Design Thinking.” Design Studies, vol. 32, no. 6, 2011, pp. 533–545.
